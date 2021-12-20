@@ -1,0 +1,11 @@
+,number,variable,exp,IV,miss_rate
+0,1,RevolvingUtilizationOfUnsecuredLines,,1.0713,0.0
+1,2,NumberOfTimes90DaysLate,,0.8311,0.0
+2,3,NumberOfTime30-59DaysPastDueNotWorse,,0.7403,0.0
+3,4,NumberOfTime60-89DaysPastDueNotWorse,,0.5605,0.0
+4,5,age,,0.2449,0.0
+5,6,MonthlyIncome,,0.0884,0.0
+6,7,NumberOfOpenCreditLinesAndLoans,,0.0815,0.0
+7,8,DebtRatio,,0.0655,0.0
+8,9,NumberRealEstateLoansOrLines,,0.0566,0.0
+9,10,NumberOfDependents,,0.0297,0.0
